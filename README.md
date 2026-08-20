@@ -4,21 +4,11 @@
 
 ### researcher / engineer · Los Angeles
 
-I build systems and experiments across **inference, agents, and uncertain markets** at [StarAI @ UCLA](https://github.com/UCLA-StarAI).
+I build systems and experiments across **inference, agents, and optimization** at [StarAI @ UCLA](https://github.com/UCLA-StarAI).
 
 [austxu.dev](https://austxu.dev) · [LinkedIn](https://www.linkedin.com/in/axu25) · [X](https://x.com/austixu)
 
 </div>
-
-```python
-from austin_xu import researcher, engineer
-
-austin = {
-    "working_on": ["inference systems", "agent evaluation", "optimization"],
-    "interested_in": ["reinforcement learning", "uncertainty", "market models"],
-    "tools": ["Python", "C++ / ROCm", "React", "FastAPI"],
-}
-```
 
 ## Selected work
 
@@ -59,7 +49,7 @@ Deep RL strategies for the card game Coup, with bluffing, challenges, counterpla
 
 ### 03 / [Heston regime lab](https://austxu.dev/work/heston-regime-lab)
 
-An interactive lab for calibrating the Heston model to SPX options, detecting market regimes with a hidden Markov model, and visualizing how parameters change across regimes.
+An interactive lab for calibrating the Heston model to SPX options, detecting regime shifts with a hidden Markov model, and visualizing how parameters change across regimes.
 
 [Repository](https://github.com/austxu/heston-regime-lab)
 
@@ -69,7 +59,7 @@ An interactive lab for calibrating the Heston model to SPX options, detecting ma
 
 ## Technical focus
 
-`Inference Systems` · `GPU Kernels` · `Reinforcement Learning` · `Agent Evaluation` · `Uncertainty` · `Data Visualization` · `C++ / ROCm` · `Python` · `Market Models`
+`Inference Systems` · `GPU Kernels` · `Reinforcement Learning` · `Agent Evaluation` · `Systems Optimization` · `Data Visualization` · `C++ / ROCm` · `Python` · `Research Design`
 
 ## A little more
 
