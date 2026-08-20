@@ -22,23 +22,50 @@ austin = {
 
 ## Selected work
 
-### [13.93% faster Llama 2 decode on an AMD RX 6700 XT](https://austxu.dev/work/amd-inference)
+<div align="center">
+
+<a href="https://austxu.dev/work/amd-inference">
+  <img src="https://raw.githubusercontent.com/austxu/austxu/main/assets/amd-inference.jpg" alt="13.93% faster Llama 2 decode on an AMD RX 6700 XT" width="100%">
+</a>
+
+</div>
+
+### 01 / [13.93% faster Llama 2 decode on an AMD RX 6700 XT](https://austxu.dev/work/amd-inference)
 
 Reproducible Vulkan optimization evidence for Llama 2 7B Q4_0. The retained profile improved decode from **75.23 → 85.71 tokens/s** with flash attention off.
 
 [Repository](https://github.com/austxu/RX-6700XT-Optimization) · [Results](https://github.com/austxu/RX-6700XT-Optimization/blob/main/docs/RESULTS.md)
 
-### [A bot built to play Coup](https://austxu.dev/work/coup-rl-bot)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://austxu.dev/work/coup-rl-bot">
+  <img src="https://raw.githubusercontent.com/austxu/austxu/main/assets/coup-rl-bot.jpg" alt="Coup RL bot live browser interface" width="100%">
+</a>
+
+### 02 / [Coup RL bot](https://austxu.dev/work/coup-rl-bot)
 
 Deep RL strategies for the card game Coup, with bluffing, challenges, counterplay, and a playable browser demo.
 
 [Repository](https://github.com/austxu/coup-RL-bot) · [Play the bot](https://coup.austxu.dev)
 
-### [Heston regime lab](https://austxu.dev/work/heston-regime-lab)
+</td>
+<td width="50%" valign="top">
 
-An interactive research lab for calibrating the Heston model to SPX options, detecting market regimes with a hidden Markov model, and visualizing how parameters change across regimes.
+<a href="https://austxu.dev/work/heston-regime-lab">
+  <img src="https://raw.githubusercontent.com/austxu/austxu/main/assets/heston-regime-lab.jpg" alt="Heston regime lab volatility dashboard" width="100%">
+</a>
+
+### 03 / [Heston regime lab](https://austxu.dev/work/heston-regime-lab)
+
+An interactive lab for calibrating the Heston model to SPX options, detecting market regimes with a hidden Markov model, and visualizing how parameters change across regimes.
 
 [Repository](https://github.com/austxu/heston-regime-lab)
+
+</td>
+</tr>
+</table>
 
 ## Technical focus
 
